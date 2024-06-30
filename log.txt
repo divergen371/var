@@ -1,0 +1,4 @@
+11:23:31.064+09:00 SUCCESS: Vars get Success
+11:24:30.010+09:00 SUCCESS: Vars get Success
+11:25:17.604+09:00 SUCCESS: Vars get Success
+11:25:19.872+09:00 ERROR: Vars get Error
